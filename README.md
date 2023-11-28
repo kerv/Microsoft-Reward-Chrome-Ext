@@ -2,7 +2,7 @@
 
 A Chrome extension for Microsoft Rewards, which automatically clears PC, mobile and Edge search quests and displays daily point countdown.
 
-This extension will also complete quizzes and promotional links (most of the time). just be sure to emable them in the extension options.
+This extension will also complete quizzes and promotional links (most of the time). Just be sure to enable them in the extension options.
 
 **This is a bot!**
 
